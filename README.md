@@ -17,7 +17,7 @@ A passionate Full-Stack Website Developer with some experience in MERN stack.
 
 • ReactJS \
 • ExpressJS, NodeJS \
-• MongoDB \
+• ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) \
 • Postman \
 • PostgreSQL \
 • Docker \
