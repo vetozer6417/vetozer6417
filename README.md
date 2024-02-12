@@ -11,7 +11,7 @@ A passionate Full-Stack Website Developer with some experience in MERN stack.
 
 • HTML, CSS, JAVASCRIPT\
 • C++ \
-• JAVA \
+• JAVA, JAVAFX \
 • SQL
 ## Tools & Frameworks
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
