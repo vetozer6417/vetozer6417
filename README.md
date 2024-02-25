@@ -1,7 +1,7 @@
 
 # Hi, I'm Theerat Punyasit😀
 
-![](https://komarev.com/ghpvc/?username=vetozer6417&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=vetozer6417&color=blueviolet) <br>
 I'm currently a freshman studying Computer Engineering and Digital Technology, at Chulalongkorn University.
 
 A passionate Full-Stack Website Developer with some experience in MERN stack.
